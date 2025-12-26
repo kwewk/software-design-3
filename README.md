@@ -1,4 +1,4 @@
-# secure-api-lab
+# Software Design 3
 
 ## Опис проєкту
 
